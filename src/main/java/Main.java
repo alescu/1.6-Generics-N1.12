@@ -24,5 +24,6 @@ public class Main {
         System.out.println("\n");
         GenericMethods genMet2 = new GenericMethods(persona, 1,"EEEE");
         genMet2.showArgumentsTypes();
+
     }
 }
